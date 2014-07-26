@@ -1,0 +1,13 @@
+{
+    "name": "pargins",
+    "version": "0.0.1",
+    "main": "css/pargins.min.css",
+    "ignore": [
+        ".gitignore",
+        ".jshintignore",
+        ".jshintrc",
+        "bower.json",
+        "gruntfile.js",
+        "package.json",
+    ]
+}
