@@ -8,6 +8,6 @@
         ".jshintrc",
         "bower.json",
         "gruntfile.js",
-        "package.json",
+        "package.json"
     ]
 }
